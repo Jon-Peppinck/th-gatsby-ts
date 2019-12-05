@@ -7,7 +7,7 @@ const typography = new Typography({
   baseLineHeight: 1.45,
   blockMarginBottom: 0.8,
   headerFontFamily: ['Montserrat', 'sans-serif'],
-  bodyFontFamily: ['Domine', 'serif'],
+  bodyFontFamily: ['Nunito', 'sans-serif'],
   bodyColor: gray(10),
   headerWeight: 600,
   bodyWeight: 300,

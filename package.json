@@ -54,6 +54,7 @@
     "regenerator-runtime": "^0.13.2",
     "typeface-domine": "^0.0.72",
     "typeface-montserrat": "^0.0.75",
+    "typeface-nunito-sans": "0.0.72",
     "typography": "^0.16.17",
     "typography-breakpoint-constants": "^0.16.18"
   },
