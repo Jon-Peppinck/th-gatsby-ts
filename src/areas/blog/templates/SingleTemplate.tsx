@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import { SinglePageQuery } from 'generated/types/gatsby'
-import { Layout } from '../components/Layout'
+import { Layout } from '../../shared/components/Layout'
 
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const MDXRenderer = require('gatsby-plugin-mdx/mdx-renderer')

@@ -3,7 +3,7 @@ import { graphql, Link } from 'gatsby'
 import Helmet from 'react-helmet'
 import { kebabCase } from 'lodash'
 import { TagListPageQuery } from 'generated/types/gatsby'
-import { Layout } from '../components/Layout'
+import { Layout } from '../areas/shared/components/Layout'
 
 interface TagsPageProps {
   readonly data: TagListPageQuery

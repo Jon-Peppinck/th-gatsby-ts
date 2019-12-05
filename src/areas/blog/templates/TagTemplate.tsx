@@ -4,8 +4,8 @@ import Helmet from 'react-helmet'
 import { TagPageQuery, TagPageQueryVariables } from 'generated/types/gatsby'
 import { ContentList } from '../components/ContentList'
 import { Pager } from '../components/Pager'
-import { Layout } from '../components/Layout'
-import { ArchivePageContext } from '../context'
+import { Layout } from '../../shared/components/Layout'
+import { ArchivePageContext } from '../../../context'
 
 interface TagTemplateProps {
   readonly data: TagPageQuery
